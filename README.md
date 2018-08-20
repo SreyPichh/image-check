@@ -11,3 +11,8 @@
 ### Step 2:
 - Run mainCheck.py
 - Result Output will be create in `MissingJSON`
+
+# Deploy django with Nginx webserver
+1. webserver: which we are going to use Nginx
+2. Gateway: which we are going to use guncorn
+3. application
